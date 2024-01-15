@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wenbin Jiang"
-  avatar           : "profile.png"
+  avatar           : "linux.png" # "profile.png"
   bio              : "Hangzhou Dianzi University"
   location         : "Hangzhou China"
   employer         :
