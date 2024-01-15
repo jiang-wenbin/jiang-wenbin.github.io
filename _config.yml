@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenbin Jiang / Site Title"
+title                    : "Wenbin Jiang"
 title_separator          : "-"
 name                     : &name "Wenbin Jiang"
 description              : &description "Distinguished associate professor"
